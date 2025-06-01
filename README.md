@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - **Opis:** Ukratko opišite svoj projekt, što radi i koje tehnologije ste koristili.
 - **Tehnologije:** Python, PIL, Tkinter.
 
-#### 📗 Projekt 2: [Vectory](https://github.com/your-username/project-2)
+#### 📗 Projekt 2: [Vectory](https://github.com/gabster505/Vektori-Sudbine/)
 - **Opis:** Kratki sažetak drugog projekta, njegova svrha i korišteni alati.
 - **Tehnologije:** React, Express, JavaScript, TypeScript.
 - **Suradnica:** Lana Zekušić.
