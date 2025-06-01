@@ -17,8 +17,17 @@ Welcome to my GitHub profile!
 - **Tehnologije:** React, Express, JavaScript, TypeScript.
 - **Suradnica:** Lana Zekušić.
 
-### 📄 Moj CV
+#### 📒 Projekt 3: [React Web aplikacija za učenje zviježđa]
+- **Opis:** Ciljana publika ove aplikacije su srednjoškolci koji se bave astronomijom i svi zainteresirani za učenje astronomije. Aplikacija je bila projekt za završni rad, ali još uvijek je nadograđujem.
+- **Link na deploy (Netlify + Rust):** (https://astroucilica-zavrsni-fer.netlify.app/zima)
+- **Tehnologije:** React, Express, JavaScript, TypeScript, Three.js
+- **Suradnica:** Lana Zekušić.
 
+#### 📙
+
+#### 📕
+
+### 📄 Moj CV
 Možete pregledati ili preuzeti moj CV [ovdje](https://your-cv-link.com).
 
 ### 📫 Kontakt
