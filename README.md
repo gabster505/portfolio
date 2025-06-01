@@ -23,4 +23,4 @@ Možete pregledati ili preuzeti moj CV [ovdje](https://your-cv-link.com).
 
 ### 📫 Kontakt
 
-- **Email:** gabrijela.klepec1234@example.com
+- **Email:** gabrijela.klepec1234@gmail.com
