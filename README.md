@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 📒 Projekt 3: [React Web aplikacija za učenje zviježđa]
 - **Opis:** Ciljana publika ove aplikacije su srednjoškolci koji se bave astronomijom i svi zainteresirani za učenje astronomije. Aplikacija je bila projekt za završni rad, ali još uvijek je nadograđujem.
-- **Link na deploy (Netlify + Rust):** https://astroucilica-zavrsni-fer.netlify.app/
+- **Link na deploy (Netlify (frontend) + Render (backend)):** https://astroucilica-zavrsni-fer.netlify.app/
 - **Tehnologije:** React, Express, JavaScript, TypeScript, Three.js
 - **Suradnica:** Lana Zekušić.
 
