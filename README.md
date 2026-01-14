@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 - **Link na deploy (Netlify (frontend) + Render (backend)):** https://astroucilica-zavrsni-fer.netlify.app/
 - **Opis:** Ciljana publika ove aplikacije su srednjoškolci koji se bave astronomijom i svi zainteresirani za učenje astronomije. Aplikacija je bila projekt za završni rad, ali još uvijek je nadograđujem.
 - **Tehnologije:** React, Express, JavaScript, TypeScript, Three.js
-- **Suradnica:** Lana Zekušić.
+- **Mentorica:** Ana Sušac.
 
 #### 📙
 
