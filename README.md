@@ -15,14 +15,12 @@ Welcome to my GitHub profile!
 
 #### 📒 Projekt 2: React Web aplikacija za učenje zviježđa
 - **Link na deploy (Netlify (frontend) + Render (backend)):** https://astroucilica-zavrsni-fer.netlify.app/
-- **Opis:** Ciljana publika ove aplikacije su srednjoškolci koji se bave astronomijom i svi zainteresirani za učenje astronomije. Aplikacija je bila projekt za završni rad, ali još uvijek je nadograđujem.
+- **Opis:** Ciljana publika ove aplikacije su srednjoškolci koji se bave astronomijom i svi zainteresirani za učenje astronomije. Aplikacija je bila projekt za završni rad, ali planiram je nadograditi.
 - **Tehnologije:** React, Express, Node.js, TypeScript, Three.js
 - **Mentorica:** Ana Sušac.
 - **Frontend direktorij:**
-- **Backend direktorij:** 
-
-#### 📙 Projekt 3 (osobni projekt u izradi): Web aplikacija za teniski klub
-
+- **Backend direktorij:**
+ 
 ### 📄 Moj CV
 Možete pregledati ili preuzeti moj CV [ovdje](https://your-cv-link.com).
 
