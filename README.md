@@ -21,12 +21,6 @@ Welcome to my GitHub profile! 👩‍💻
 - **Frontend direktorij:**
 - **Backend direktorij:**
 
-### 🤓 Manji projekti / Learning... 
-#### 📒 Projekt 2: React Web aplikacija za učenje zviježđa
-- **Opis:** Web scraping podataka sa svjetskog prvenstva, 
-- **Tehnologije:** React, Express, Node.js, TypeScript, Three.js
-- **Motivacija:**
-
  
 ### 📄 Moj CV
 Možete pregledati ili preuzeti moj CV [ovdje](https://your-cv-link.com).
