@@ -8,12 +8,12 @@ Welcome to my GitHub profile! 👩‍💻
 
 #### 📗 Projekt 1: [Vectory](https://github.com/gabster505/Vektori-Sudbine/)
 - **Link na deploy (Netlify (frontend) + Render (backend)):** https://astroucilica-zavrsni-fer.netlify.app/
-- **Opis:** Edukacijska aplikacija za učenje osnovnih operacija nad vektorima, namjenjeno učenicima osnovnih škola
+- **Opis:** Edukacijska aplikacija izrađena u suradnji kolegica za učenje osnovnih operacija nad vektorima, namjenjeno učenicima osnovnih škola
 - **Tehnologije:** React, Express, JavaScript, TypeScript.
 - **Suradnica:** Lana Zekušić.
 - **Mentorica:** Ana Sušac.
 
-#### 📒 Projekt 2: React Web aplikacija za učenje zviježđa
+#### 📒 Projekt 2: React Web aplikacija za učenje zviježđa - Završni rad (preddiplomski studij FER-a)
 - **Link na deploy (Netlify (frontend) + Render (backend)):** https://astroucilica-zavrsni-fer.netlify.app/
 - **Opis:** Ciljana publika ove aplikacije su srednjoškolci koji se bave astronomijom i svi zainteresirani za učenje astronomije. Aplikacija je bila projekt za završni rad, ali planiram je nadograditi.
 - **Tehnologije:** React, Express, Node.js, TypeScript, Three.js
