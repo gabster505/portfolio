@@ -24,7 +24,7 @@ Welcome to my GitHub profile! 👩‍💻
 
 
 ### 📄 Moj CV
-Možete pregledati ili preuzeti moj CV [ovdje]([https://drive.google.com/file/d/1ja_VYvyXVd4vWc2fYJEYUxJN8xyrJNb6/view?usp=drive_link](https://drive.google.com/file/d/1TKj-rQA4nCzcmWuHkjf0IOPATz7z842P/view?usp=sharing)
+Možete pregledati ili preuzeti moj CV [ovdje](https://drive.google.com/file/d/1TKj-rQA4nCzcmWuHkjf0IOPATz7z842P/view?usp=sharing)
 
 ### 📫 Kontakt
 - **Email:** gabrijela.klepec1234@gmail.com
