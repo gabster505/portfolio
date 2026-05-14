@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 👩‍💻
 - **Tehnologije:** React, Express, JavaScript, TypeScript.
 - **Suradnica:** Lana Zekušić.
 - **Mentorica:** Ana Sušac.
-- 
+
 #### 📕 Projekt 3: 
 
 
