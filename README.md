@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 👩‍💻
 - **Backend direktorij:** [link backend](https://github.com/gabster505/AstroUcilicaBackend/)
 
 #### 📗 Projekt 2: [Vectory](https://github.com/gabster505/Vektori-Sudbine/)
-- **Opis:** Edukacijska aplikacija izrađena u suradnji kolegica za učenje osnovnih operacija nad vektorima, namjenjeno učenicima osnovnih škola
+- **Opis:** Edukacijska aplikacija izrađena u suradnji s kolegicom za učenje osnovnih operacija nad vektorima, namjenjeno učenicima osnovnih škola
 - **Tehnologije:** React, Express, JavaScript, TypeScript.
 - **Suradnica:** Lana Zekušić.
 - **Mentorica:** Ana Sušac.
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! 👩‍💻
 
 
 ### 📄 Moj CV
-Možete pregledati ili preuzeti moj CV [ovdje]([https://your-cv-link.com](https://drive.google.com/file/d/1ja_VYvyXVd4vWc2fYJEYUxJN8xyrJNb6/view?usp=drive_link)).
+Možete pregledati ili preuzeti moj CV [ovdje]([https://your-cv-link.com](https://drive.google.com/file/d/1ja_VYvyXVd4vWc2fYJEYUxJN8xyrJNb6/view?usp=drive_link).
 
 ### 📫 Kontakt
 - **Email:** gabrijela.klepec1234@gmail.com
